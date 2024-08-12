@@ -8,7 +8,7 @@ def guess_the_number():
     attempts = 0
 
     print("---------------Welcome to guess the number game----------------")
-    print(f"System has selected a number between {a} and {b}, guess the number between them.....")
+    print(f"System has selected a number between {a} and {b}, guess the number between them........")
     
     while True:
 
